@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "postgres",
-    "database": "2359Project",
-    "host": "127.0.0.1",
+    "username": "zmpwnhsp",
+    "password": "oVaZMQyNiXi1t7fUJiJH4bV3U43h-NX9",
+    "database": "zmpwnhsp",
+    "host": "elmer.db.elephantsql.com",
     "dialect": "postgres"
   },
   "test": {
